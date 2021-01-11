@@ -7,7 +7,7 @@
 
 
 ## 1. Vấn đề đặt ra trong bài nói chuyện là gì? Tại sao lại cần quan tâm đến vấn đề này
-### Vấn đè đặt ra ở đây là chuyện gì xảy ra bên trong đầu của người trì hoãn. Ta phải quan tâm vấn đề này vì trì hoãn gây ra ảnh hưởng xấu đến cuộc sống
+### Vấn đề đặt ra ở đây là chuyện gì xảy ra bên trong đầu của người trì hoãn. Ta phải quan tâm vấn đề này vì trì hoãn gây ra ảnh hưởng xấu đến cuộc sống
 
 
 ## 2. Giả thuyết đặt ra là gì? Mô tả các thành phần của giả thuyết
