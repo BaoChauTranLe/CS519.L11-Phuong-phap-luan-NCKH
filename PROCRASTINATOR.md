@@ -11,7 +11,7 @@
 
 
 ## 2. Giả thuyết đặt ra là gì? Mô tả các thành phần của giả thuyết
-### Bên trong não của người bình thường gồm có Rational Decision-Maker (người quyết định làm theo kế hoạch đặt ra)
+### Bên trong não của người bình thường có Rational Decision-Maker (người quyết định làm theo kế hoạch đặt ra)
 ### Bên trong não của người trì hoãn có thêm hai thành phần khác: 
 ###   - Instant Grafitication Monkey: Con khỉ luôn hướng tới những việc vui vẻ, gây ảnh hưởng Rational Decision-Maker
 ###   - Panic Monster: con quái vật chỉ xuất hiện khi sắp hết hạn công việc với nhiệm vụ đuổi con khỉ đi và để mọi quyền quyết định cho Rational Decision-Maker
